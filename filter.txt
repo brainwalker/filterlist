@@ -1,0 +1,6 @@
+@@||fonts.gstatic.com^ # Google Font
+https://adservice.google.com
+||securemetrics.apple.com
+||supportmetrics.apple.com
+||metrics.icloud.com
+||metrics.mzstatic.com
